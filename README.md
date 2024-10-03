@@ -1,10 +1,9 @@
-# Repositorio Muestra - Editar este archivo
+# Repositorio 
 
 ## Integrantes del equipo
 
-- **Nombre completo de segundo integrante**
-- **Nombre completo de segundo integrante**
-- **Nombre completo del tercer integrante**
+- Jose Manuel Sanchez Mendoza
+- Yadira Rodriguez Escobedo
 
 ## Indicaciones
 
