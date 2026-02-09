@@ -2,7 +2,7 @@
 
 ## Integrantes del equipo
 
-- **Nombre completo de segundo integrante**
+- **Nombre completo de  integrante**
 - **Nombre completo de segundo integrante**
 - **Nombre completo del tercer integrante**
 
